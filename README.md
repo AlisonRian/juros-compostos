@@ -1,14 +1,14 @@
 # juros-compostos
-## O projeto consiste no desenvolvimento de um software capaz de calcular juros-compostos
+## O projeto consiste no desenvolvimento de um software capaz de calcular juros-compostos.
 ## Funcionalidades: 
 ### - Cálculo do juros-compostos
 ### - Exibição do gráfico de crescimento do juros.
 ### - Permitir o cálculo com diferentes moedas.
 
-## Como rodar o código localmente
+## Como rodar o código localmente:
 ### Utilize git clone https://github.com/AlisonRian/juros-compostos.git
-### Abra o projeto no VsCode
-### Após isso acesse o arquivo 'calculo.py' localizado na pasta /src
+### Abra o projeto no VsCode.
+### Após isso acesse o arquivo 'calculo.py' localizado na pasta '/src'.
 ### Inicie um terminal e digite o seguinte comando: python calculo.py. Dessa forma o projeto deve funcionar corretamente.
 
 ## Exemplos de entrada e saída:
